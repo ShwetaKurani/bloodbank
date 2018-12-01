@@ -1,0 +1,220 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BloodBankManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_DestroyedBloodDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_DonorDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ExpiredBloodDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ProductSalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_PurchasesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_RecipientDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_DestroyedBloodRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_DonorDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ExpiredBloodRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ProductSalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_PurchasesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_RecipientDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_DestroyedBloodRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_DonorDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ExpiredBloodRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_ProductSalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_PurchasesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_RecipientDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet.tbl_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_DestroyedBloodTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_DonorDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_ExpiredBloodTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_ProductSalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_PurchasesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_RecipientDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.tbl_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Blood_Bank_Management_System.db_BloodBankDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Blood_Bank_Management_System.db_BloodBankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Blood_Bank_Management_System.db_BloodBankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager.UpdateAll(Blood_Bank_Management_System.db_BloodBankDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Blood_Bank_Management_System.db_BloodBankDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
